@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+![Home Screen](assets/screenshots/homepage.png)
+![AddTransaction_Screen](assets/screenshots/addTransactionpage.png)
+
+![Working_Video](assets/how_app_works/recording.mp4)
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
